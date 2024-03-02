@@ -1,0 +1,29 @@
+{
+  "name": "tiki-taka",
+  "version": "1.0.0",
+  "description": "games",
+  "main": "index.js",
+  "scripts": {
+    "test": "tiki-taka"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jalu017/tiki-taka.git"
+  },
+  "keywords": [
+    "tiki-taka",
+    "games"
+  ],
+  "author": "jalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalu017/tiki-taka/issues"
+  },
+  "homepage": "https://github.com/jalu017/tiki-taka#readme",
+  "dependencies": {
+    "dashmail": "^1.0.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.4"
+  }
+}

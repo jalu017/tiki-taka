@@ -1,0 +1,28 @@
+{
+  "name": "dashmail",
+  "version": "1.0.0",
+  "description": "Generate temporary email from CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "dashmail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jalu017/dashmail.git"
+  },
+  "keywords": [
+    "dashmail"
+  ],
+  "author": "jalu017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalu017/dashmail/issues"
+  },
+  "homepage": "https://github.com/jalu017/dashmail#readme",
+  "dependencies": {
+    "kucing-hitam": "^1.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18"
+  }
+}
